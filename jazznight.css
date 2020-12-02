@@ -140,7 +140,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.3125rem;
+    font-size: 1.17em;
     /* 18px */
     line-height: 1.15rem;
     /* 24px */
@@ -325,6 +325,7 @@ blockquote {
     border-left: solid 2px #474d54;
     padding-left: 30px;
     margin-top: 35px;
+    margin-bottom: 1.5em;
 }
 
 pre,
@@ -429,7 +430,8 @@ mark {
 }
 
 blockquote {
-    color: #9DA2A6;
+    /*color: #9DA2A6;*/
+    font-style: italic;
 }
 
 table a {
