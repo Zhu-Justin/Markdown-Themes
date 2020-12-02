@@ -414,7 +414,8 @@ a:hover {
 }
 
 .md-inline-math script {
-    color: #81b1db;
+    /*color: #81b1db;*/
+    color: #8d8df0;
 }
 
 b,
