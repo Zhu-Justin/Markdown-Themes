@@ -5,7 +5,8 @@
 :root {
     --bg-color:  #363B40;
     --side-bar-bg-color: #2E3033;
-    --text-color: #b8bfc6;
+    /*--text-color: #b8bfc6;*/
+    --text-color: DEDEDE;
 
     --select-text-bg-color:#4a89dc;
 
@@ -68,7 +69,8 @@ input,
 select,
 textarea,
 div.code-tooltip-content {
-    color: #b8bfc6;
+    /*color: #b8bfc6;*/
+    color: #DEDEDE;
     border-color: transparent;
 }
 
