@@ -41,6 +41,7 @@ body {
     background: var(--bg-color);
     fill: currentColor;
     line-height: 1.625rem;
+    padding: 20px;
 }
 
 #write {
@@ -112,35 +113,42 @@ h6 {
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 1.875em;
     /* 36px */
-    line-height: 2.75rem;
+    line-height: 1.3em;
     /* 40px */
-    margin-bottom: 1.5rem;
-    /* 24px */
-    letter-spacing: -1.5px;
+/*    margin-bottom: 1.5rem;
+*/    /* 24px */
+    /*letter-spacing: -1.5px;*/
+    /*margin-top: 2em;*/
+    border-bottom: 1px solid;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.8125em;
+
 }
 
 h2 {
-    font-size: 1.63rem;
+    font-size: 1.3125em;
     /* 24px */
-    line-height: 1.875rem;
+    line-height: 1.15em;
     /* 30px */
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.15rem;
+    margin-top: 2.285714em;
     /* 24px */
     letter-spacing: -1px;
     font-weight: bold;
 }
 
 h3 {
-    font-size: 1.17rem;
+    font-size: 1.3125rem;
     /* 18px */
-    line-height: 1.5rem;
+    line-height: 1.15rem;
     /* 24px */
-    margin-bottom: 1.5rem;
+    margin-top: 2.285714em;
+    margin-bottom: 1.15rem;
     /* 24px */
     letter-spacing: -1px;
-    font-weight: bold;
+    font-style: oblique;
 }
 
 h4 {
